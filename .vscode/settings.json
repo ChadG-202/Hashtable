@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\junit\\junit-platform-console-standalone-1.7.0.jar",
+        "C:\\Users\\chadg\\Desktop\\mysql-connector-java-8.0.24\\mysql-connector-java-8.0.24.jar",
+        "c:\\java\\hashtable\\Downloads\\junit-platform-console-standalone-1.6.0.jar"
+    ]
+}
